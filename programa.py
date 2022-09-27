@@ -1,4 +1,4 @@
 c = a+b
 a = 5
-b = 10
+dzbf
 print (c)
